@@ -9,3 +9,8 @@ npm run build to get all from config
 npm run watch to run it
 npm install tailwindcss-debug-screens --save-dev  and import it
 npm run build
+npm run watch
+
+
+unpkg.com/tailwindcss@2.0.3/ enter defaultConfig
+

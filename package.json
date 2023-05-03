@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@fullhuman/postcss-purgecss": "5.0.0",
+    "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
